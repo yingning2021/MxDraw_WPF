@@ -1,0 +1,17 @@
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\bin\Debug\WpfApp_MxDraw.exe.config
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\bin\Debug\WpfApp_MxDraw.exe
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\bin\Debug\WpfApp_MxDraw.pdb
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\obj\Debug\WpfApp_MxDraw.csproj.AssemblyReference.cache
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\obj\Debug\WpfApp_MxDraw.csproj.SuggestedBindingRedirects.cache
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\obj\Debug\MainWindow.g.cs
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\obj\Debug\App.g.cs
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\obj\Debug\WpfApp_MxDraw_MarkupCompile.cache
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\obj\Debug\WpfApp_MxDraw_MarkupCompile.lref
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\obj\Debug\MainWindow.baml
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\obj\Debug\WpfApp_MxDraw.g.resources
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\obj\Debug\WpfApp_MxDraw.Properties.Resources.resources
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\obj\Debug\WpfApp_MxDraw.csproj.GenerateResource.cache
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\obj\Debug\WpfApp_MxDraw.csproj.CoreCompileInputs.cache
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\obj\Debug\WpfApp_MxDraw.exe
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\obj\Debug\WpfApp_MxDraw.pdb
+C:\Users\zhe\source\repos\WpfApp_MxDraw\WpfApp_MxDraw\obj\Debug\WpfApp_MxDraw.csproj.CopyComplete
